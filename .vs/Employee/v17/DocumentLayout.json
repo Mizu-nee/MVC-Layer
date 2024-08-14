@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mizu\\source\\repos\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB4091-DE84-46CC-90AB-01AA20A59706}|Employee\\Employee.csproj|c:\\users\\mizu\\source\\repos\\employee\\employee\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB4091-DE84-46CC-90AB-01AA20A59706}|Employee\\Employee.csproj|solutionrelative:employee\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB4091-DE84-46CC-90AB-01AA20A59706}|Employee\\Employee.csproj|c:\\users\\mizu\\source\\repos\\employee\\employee\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB4091-DE84-46CC-90AB-01AA20A59706}|Employee\\Employee.csproj|solutionrelative:employee\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB4091-DE84-46CC-90AB-01AA20A59706}|Employee\\Employee.csproj|c:\\users\\mizu\\source\\repos\\employee\\employee\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB4091-DE84-46CC-90AB-01AA20A59706}|Employee\\Employee.csproj|solutionrelative:employee\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB4091-DE84-46CC-90AB-01AA20A59706}|Employee\\Employee.csproj|c:\\users\\mizu\\source\\repos\\employee\\employee\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E9EB4091-DE84-46CC-90AB-01AA20A59706}|Employee\\Employee.csproj|solutionrelative:employee\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mizu\\source\\repos\\Employee\\Employee\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Employee\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mizu\\source\\repos\\Employee\\Employee\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Employee\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T03:46:33.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\mizu\\source\\repos\\Employee\\Employee\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "Employee\\Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\mizu\\source\\repos\\Employee\\Employee\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "Employee\\Controllers\\TeamsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:44:39.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\mizu\\source\\repos\\Employee\\Employee\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Employee\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\mizu\\source\\repos\\Employee\\Employee\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Employee\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:44:04.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\mizu\\source\\repos\\Employee\\Employee\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Employee\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\mizu\\source\\repos\\Employee\\Employee\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Employee\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-14T03:42:52.859Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
